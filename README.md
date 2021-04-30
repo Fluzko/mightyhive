@@ -33,10 +33,6 @@ yarn lint
 yarn test
 ```
 
-```bash
-cd client
-yarn lint
-```
 
 ## - Usage
 First of all you need to start the server and the client:
