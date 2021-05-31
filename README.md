@@ -1,7 +1,3 @@
-# MightyHive - Facundo Luzko
-
-Technical test for NodeJS developer
-
 ## - Bases
 The solutions is made within two parts, a client and a server. both uses socket.io library.
 
@@ -14,13 +10,13 @@ The solutions is made within two parts, a client and a server. both uses socket.
 Use the package manager [yarn](https://yarnpkg.com/) to install all the requirements that the project needs.
 
 ```bash
-cd mightyhive
+cd nestjs-sockets-basis
 cd client
 yarn
 ```
 
 ```bash
-cd mightyhive
+cd nestjs-sockets-basis
 cd server
 yarn
 ```
